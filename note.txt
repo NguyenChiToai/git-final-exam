@@ -1,1 +1,5 @@
+- Git giúp mình quản lý lịch sử thay đổi file rất rõ ràng, có thể quay lại bất cứ phiên bản nào.
+- Làm việc nhóm dễ hơn nhờ branch và merge, tránh đè code của nhau.
 - Ban đầu hơi khó nhớ lệnh, nhưng dùng nhiều thì thấy Git cực kỳ mạnh mẽ và cần thiết.
+- Git hỗ trợ làm việc cả khi offline, sau đó có thể đồng bộ lên GitHub.
+- Nhờ Git mình rèn được thói quen commit thường xuyên và viết message rõ ràng.
