@@ -1,0 +1,7 @@
+Tính năng mới: ## Tính năng: Quản lý lịch học trực tuyến
+
+1. Sinh viên có thể xem lịch học hàng tuần trên hệ thống.
+2. Giảng viên có thể cập nhật lịch dạy và phòng học trực tiếp.
+3. Hệ thống gửi thông báo khi có sự thay đổi lịch học.
+4. Hỗ trợ xuất lịch học ra file PDF hoặc Excel.
+5. Tính năng này giúp sinh viên dễ dàng theo dõi và tránh bỏ sót buổi học.
