@@ -11,8 +11,13 @@ Kế hoạch học tập trong một tuần:
 - Làm quen với các công cụ quản lý dự án (Trello, Jira).
 - Viết báo cáo ngắn cuối ngày về tiến độ học tập.
 - Ôn tập kỹ năng mềm: luyện thuyết trình và viết báo cáo khoa học
+<<<<<<< Updated upstream
 - Dành thời gian thực hành lại các lệnh Git quan trọng.
 - Viết ghi chú chi tiết sau mỗi buổi học để dễ ôn tập.
 - Tìm tài liệu về CI/CD để chuẩn bị cho công việc sau khi ra trường.
 - Thảo luận nhóm về các công nghệ mới.
+=======
+- Thực hành thêm với GitHub Actions.
+- Rèn luyện kỹ năng làm việc nhóm qua dự án nhỏ.
+>>>>>>> Stashed changes
  Đặt mục tiêu cuối tuần: hoàn thành ít nhất 70% tiến độ kế hoạch đã đặt ra.
