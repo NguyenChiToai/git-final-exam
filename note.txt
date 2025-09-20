@@ -1,0 +1,1 @@
+- Ban đầu hơi khó nhớ lệnh, nhưng dùng nhiều thì thấy Git cực kỳ mạnh mẽ và cần thiết.
