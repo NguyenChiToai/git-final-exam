@@ -1,4 +1,6 @@
-Hello, This is Nguyen Chi Toai
+Hello, This is Nguyen Chi Toại
+Xin chào, tôi là Nguyễn Chí Toại
+Conflict resolved on 21/09/2025
 ## Giới thiệu cá nhân
 Tôi là Nguyễn Chí Toại, là sinh viên của lớp DH22TIN01 trường Đại Học Nam Cần Thơ. Là một sinh viên năm cuối của trường và học bộ môn Phát Triển phần mềm mã nguồn mở-Một bộ môn tìm hiểu và tiếp thêm kiến thức về Github.
 Sở thích: Chơi thể thao, tập gym và chơi game
